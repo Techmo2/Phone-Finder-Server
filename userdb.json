@@ -1,0 +1,28 @@
+﻿{
+  "users": [
+    {
+      "id": 1,
+      "unique_id": 3534,
+      "name": "Bradly Tillmann",
+      "email": "bradlytillmann@gmail.com",
+      "encrypted_password": "ehhkhk8hahdw",
+      "salt": "jj8daj",
+      "date_added": "12-27-2017",
+      "date_updated": "12-27-2017",
+      "owned_devices": [
+        {
+          "unique_id": 7823,
+          "owner_id": 3534
+        }
+      ]
+    }
+  ],
+
+  "online_devices": [
+    {
+      "unique_id": 7823,
+      "owner_id": 3534,
+      "socket": 0
+    }
+  ]
+}
