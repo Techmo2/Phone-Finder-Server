@@ -1,15 +1,13 @@
 {
-  "name": "phone-finder-general-server",
+  "name": "simple-ringer-server",
   "version": "0.0.0",
-  "description": "Phone Finder General Server",
+  "description": "Simple Ringer Server",
   "main": "app.js",
   "author": {
     "name": "Bradly"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
     "express": "^4.16.2",
-    "node-schedule": "^1.2.5",
     "socket.io": "^2.0.4"
   }
 }
